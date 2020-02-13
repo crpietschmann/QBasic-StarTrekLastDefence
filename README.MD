@@ -4,6 +4,4 @@ This repository contains the source code for the text-based game titled "Star Tr
 
 ![Gameplay of Start Trek: Last Defence v1.0 by Chris Pietschmann](images/crpietschmann-StarTrek-LastDefence-QBasic-Game.gif "Gameplay of Start Trek: Last Defence v1.0 by Chris Pietschmann")
 
-[View Source Code](STLD10.BAS)
-
-![Screenshot of the Start Trek: Last Defence source code.](images/StarTreklastDefence10SourceCode.jpg "Screenshot of the Start Trek: Last Defence source code.")
+[View / Download Source Code](STLD10.BAS)
